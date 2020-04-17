@@ -1,0 +1,44 @@
+{
+  "streams": [
+    {
+      "title": "Example stream",
+      "description": "Description example",
+      "id": 1
+    },
+    {
+      "title": "Title stream",
+      "description": "Description stream",
+      "id": 2
+    },
+    {
+      "title": "i create this dstream",
+      "description": "this was made by me",
+      "userId": "101215304271121203512",
+      "id": 3
+    },
+    {
+      "title": "stream 4",
+      "description": "desciption 4",
+      "userId": "101215304271121203512",
+      "id": 4
+    },
+    {
+      "title": "asdas",
+      "description": "asdasda",
+      "userId": "101215304271121203512",
+      "id": 5
+    },
+    {
+      "title": "fasfa",
+      "description": "asfasf",
+      "userId": "101215304271121203512",
+      "id": 6
+    },
+    {
+      "title": "fasdf",
+      "description": "sfa",
+      "userId": "101215304271121203512",
+      "id": 7
+    }
+  ]
+}

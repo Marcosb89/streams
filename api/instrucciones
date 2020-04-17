@@ -1,0 +1,2 @@
+Para iniciar el json server se crea un script en el package indicando el puerto y el archivo
+que hace de base de datos (también hay que crearlo, en este caso es db.json).
