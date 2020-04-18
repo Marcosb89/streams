@@ -11,8 +11,8 @@
       "id": 2
     },
     {
-      "title": "i create this dstream",
-      "description": "this was made by me",
+      "title": "I created this stream",
+      "description": "This was made by me",
       "userId": "101215304271121203512",
       "id": 3
     },
@@ -21,12 +21,6 @@
       "description": "desciption 4",
       "userId": "101215304271121203512",
       "id": 4
-    },
-    {
-      "title": "Varaoa",
-      "description": "asdfaw",
-      "userId": "101215304271121203512",
-      "id": 5
     }
   ]
 }
